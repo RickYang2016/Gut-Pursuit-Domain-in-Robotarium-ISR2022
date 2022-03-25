@@ -5,4 +5,5 @@ Underlying relationships among multiagent systems (MAS) in hazardous scenarios c
 Furthermore, we extends the GUT to arrive at a cooperative pursuit strategy to catch the evaders in the Pursuit-Evasion game domain. We verify and demonstrate the performance of the method using the Robotarium platform compared to the conventional constant bearing (CB) and pure pursuit (PP) strategies. The performances verified the effectiveness of the GUT in the real robot application and validated that the GUT could effectively organize MAS cooperation strategies, helping the group with fewer advantages achieve higher performance.
 
  Robotarium: https://www.robotarium.gatech.edu/
+ 
  Relative paper: https://arxiv.org/pdf/2004.10950.pdf
