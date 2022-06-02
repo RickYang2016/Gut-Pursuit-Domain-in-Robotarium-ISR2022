@@ -17,7 +17,7 @@ This implementation requires Robotarium Python Simulator.
 
 
 #### Download the Code
-git clone https://github.com/RickYang2016/Gut-Pursuit-Domain-Robotarium-ISR2022.git
+$ git clone https://github.com/RickYang2016/Gut-Pursuit-Domain-Robotarium-ISR2022.git
 
 #### Run
 1. Hopper-V2 with 3 factors BSAC:
