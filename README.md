@@ -17,7 +17,7 @@ Relative paper: [Game-theoretic Utility Tree for Multi-Robot Cooperative Pursuit
 ### Demonstration: `Constant Bearing (CB)` vs `Pure Pursuit (PP)` vs `GUT`
 > 1 Pursuer chasing 1 Evader 
     <div align = center>
-    <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/cb.gif" height="133" title="Constant Bearing (CB)">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/pp.gif" height="133" alt="Hopper-V2 3SABC Video">      <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/gut_pursuit.gif" height="133" alt="Hopper-V2 3SABC Video"/>
+    <img src="https://github.com/RickYang2016/Gut-Pursuit-Domain-Robotarium-ISR2022/blob/main/figures/pursuit_game_1vs1_cb.gif" height="133" title="Constant Bearing (CB)">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/pp.gif" height="133" alt="Hopper-V2 3SABC Video">      <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/gut_pursuit.gif" height="133" alt="Hopper-V2 3SABC Video"/>
     </div>
     
 > 3 Pursuer chasing 1 Evader 
