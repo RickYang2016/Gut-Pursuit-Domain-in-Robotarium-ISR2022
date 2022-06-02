@@ -12,7 +12,19 @@ Paper: [Game-theoretic Utility Tree for Multi-Robot Cooperative Pursuit Strategy
 </div>
 
 ### Experiments Setup
+This implementation requires Robotarium Python Simulator.
+#### Install Robotarium Python Simulator
 
+#### Run
+1. Hopper-V2 with 3 factors BSAC:
+```
+cd ~/hopper-v2_3bsac
+pyhton3 main_bsac.py 
+```
+2. Walker2d-V2 with 5 factors BSAC:
+
+
+> Note: Before running the code, please set the specific directory in files `main_bsac.py` and `networks.py` for the data updating.
 
 ### Demonstration: `Constant Bearing (CB)` vs `Pure Pursuit (PP)` vs `GUT`
 > 1 Pursuer chasing 1 Evader 
