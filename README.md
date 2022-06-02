@@ -14,10 +14,14 @@ Paper: [Game-theoretic Utility Tree for Multi-Robot Cooperative Pursuit Strategy
 ### Experiments Setup
 This implementation requires Robotarium Python Simulator.
 #### Install Robotarium Python Simulator
+```
 Check the instruction: https://github.com/robotarium/robotarium_python_simulator
+```
 
 #### Download the Code
+```
 $ git clone https://github.com/RickYang2016/Gut-Pursuit-Domain-Robotarium-ISR2022.git
+```
 
 #### Run
 1. CB with 1/3/5 Pursuer:
