@@ -7,7 +7,8 @@ Relative paper: [Game-theoretic Utility Tree for Multi-Robot Cooperative Pursuit
 
 ## Experiments Setup
 
-> Pursuit Domain in Robotarium: `Constant Bearing (CB)` vs `Pure Pursuit (PP)` vs `GUT`
+### Pursuit Domain in Robotarium: `Constant Bearing (CB)` vs `Pure Pursuit (PP)` vs `GUT`
+> 3 Pursuer chasing 1 Evader 
     <div align = center>
     <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/cb.gif" height="133" title="Constant Bearing (CB)">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/pp.gif" height="133" alt="Hopper-V2 3SABC Video">      <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/gut_pursuit.gif" height="133" alt="Hopper-V2 3SABC Video"/>
     </div>
