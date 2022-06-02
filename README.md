@@ -20,13 +20,19 @@ This implementation requires Robotarium Python Simulator.
 $ git clone https://github.com/RickYang2016/Gut-Pursuit-Domain-Robotarium-ISR2022.git
 
 #### Run
-1. Hopper-V2 with 3 factors BSAC:
+1. CB with 1/3/5 Pursuer:
 ```
-cd ~/hopper-v2_3bsac
-pyhton3 main_bsac.py 
+pyhton3 pursuit_game_1/3/5vs1_cb.py 
 ```
-2. Walker2d-V2 with 5 factors BSAC:
-
+2. PP with 1/3/5 Pursuer:
+```
+pyhton3 pursuit_game_1/3/5vs1_pp.py 
+```
+3. GUT with 1/3/5 Pursuer:
+```
+cd ~/
+pyhton3 pursuit_game_1/3/5vs1_pp.py 
+```
 
 > Note: Before running the code, please set the specific directory in files `main_bsac.py` and `networks.py` for the data updating.
 
