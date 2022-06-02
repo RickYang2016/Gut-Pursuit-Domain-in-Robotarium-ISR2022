@@ -31,11 +31,11 @@ pyhton pursuit_game_1/3/5vs1_pp.py
 3. GUT with 1/3/5 Pursuer:
 ```
 cd ~/pursuit_game
-pyhton pursuit_game_1/3/5vs1_pp.py 
+pyhton gut_pursuit_game_1/3/5vs1.py 
 ```
 
-> Note: Before running the code, please set the specific directory in files `main_bsac.py` and `networks.py` for the data updating.
-
+<!-- > Note: Before running the code, please set the specific directory in files `main_bsac.py` and `networks.py` for the data updating.
+ -->
 ### Demonstration: `Constant Bearing (CB)` vs `Pure Pursuit (PP)` vs `GUT`
 > 1 Pursuer chasing 1 Evader 
     <div align = center>
