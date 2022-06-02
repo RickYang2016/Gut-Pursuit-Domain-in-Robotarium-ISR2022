@@ -6,7 +6,7 @@ Underlying relationships among multiagent systems (MAS) in hazardous scenarios c
 Relative paper: [Game-theoretic Utility Tree for Multi-Robot Cooperative Pursuit Strategy](https://github.com/RickYang2016/Gut-Pursuit-Domain-Robotarium-ISR2022/blob/main/Gut-Pursuit-Domain-Robotarium-ISR2022Paper.pdf)
 
 ## Pursuit-Evasion Game in Robotarium
-
+### GUT Building
 <div align = center>
 <img src="https://github.com/RickYang2016/Gut-Pursuit-Domain-Robotarium-ISR2022/blob/main/figures/GUT-PE-overview.png" height="205" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Gut-Pursuit-Domain-Robotarium-ISR2022/blob/main/figures/gut_pursuit_overview.png" height="205" alt="Hopper-V2 3SABC Video"/>
 </div>
