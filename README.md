@@ -6,4 +6,4 @@ Furthermore, we extends the GUT to arrive at a cooperative pursuit strategy to c
 
  Robotarium: https://www.robotarium.gatech.edu/
  
- Relative paper: https://arxiv.org/pdf/2004.10950.pdf
+ Relative paper: [Game-theoretic Utility Tree for Multi-Robot Cooperative Pursuit Strategy](https://github.com/RickYang2016/Gut-Pursuit-Domain-Robotarium-ISR2022/blob/main/Gut-Pursuit-Domain-Robotarium-ISR2022Paper.pdf)
