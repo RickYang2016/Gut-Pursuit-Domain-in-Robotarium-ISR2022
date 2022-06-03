@@ -54,6 +54,10 @@ pyhton gut_pursuit_game_1/3/5vs1.py
     <img src="https://github.com/RickYang2016/Gut-Pursuit-Domain-Robotarium-ISR2022/blob/main/figures/pursuit_game_cb_5vs1.gif" height="133" title="Constant Bearing (CB)">   <img src="https://github.com/RickYang2016/Gut-Pursuit-Domain-Robotarium-ISR2022/blob/main/figures/pursuit_game_pp_5vs1.gif" height="133" alt="Hopper-V2 3SABC Video">      <img src="https://github.com/RickYang2016/Gut-Pursuit-Domain-Robotarium-ISR2022/blob/main/figures/gut_pursuit_game_5vs1.gif" height="133" alt="Hopper-V2 3SABC Video"/>
     </div>
 
+## Explore Domain in Robotarium
+
+
+
 ## Conclusion
 
 Our work extends the Game-theoretic Utility Tree (GUT) in the pursuit domain to achieve multiagent cooperative decision-making in catching an evader. We demonstrate the GUT's performance in the real robot implementing the Robotarium platform compared to the conventional constant bearing (CB) and pure pursuit (PP) strategies. Through simulations and real-robot experiments, the results show that the GUT could effectively organize cooperation strategies, helping the group with fewer advantages achieve higher performance.
